@@ -1,7 +1,7 @@
 package binwrapper_test
 
 import (
-	"github.com/nickalie/go-binwrapper"
+	"github.com/xiefulaithu/go-binwrapper"
 	"fmt"
 	"testing"
 	"github.com/stretchr/testify/assert"
